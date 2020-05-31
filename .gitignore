@@ -1,2 +1,5 @@
 ######password ignore
 password.txt
+
+#ignore src folder
+!src/style.css
