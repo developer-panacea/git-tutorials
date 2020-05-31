@@ -1,5 +1,11 @@
-######password ignore
+#password ignore#
+#################
 password.txt
 
-#ignore src folder
-!src/style.css
+#ignore imp files
+################
+a.html
+b.php
+*.zip
+
+
